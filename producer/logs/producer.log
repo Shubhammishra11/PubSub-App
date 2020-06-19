@@ -1,0 +1,30 @@
+{"level":"DEBUG","ts":"2020-05-23T21:57:57.246+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T22:11:13.204+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T22:44:06.760+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T23:27:04.349+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T23:44:09.778+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T23:45:05.284+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-23T23:56:45.044+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T12:47:48.096+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T12:58:08.625+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T13:16:49.949+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T13:21:52.661+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T14:10:33.645+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-24T14:10:43.341+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"DEBUG","ts":"2020-05-26T23:48:42.893+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"ERROR","ts":"2020-05-26T23:53:38.196+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-26T23:55:05.140+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-26T23:55:49.923+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-26T23:57:15.229+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-26T23:57:57.679+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-26T23:59:29.859+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:01:19.371+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:04:50.675+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:05:44.333+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:07:25.961+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:16:44.890+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"ERROR","ts":"2020-05-27T00:22:51.451+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"DEBUG","ts":"2020-05-27T00:27:15.269+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"ERROR","ts":"2020-05-27T00:27:30.066+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
+{"level":"DEBUG","ts":"2020-05-27T00:28:17.112+0530","caller":"routes/route.go:15","msg":"path: /api/v1/produce\thandler: producer/internal/app/handler.ReceiveData\tmethod: POST,\tregistered routes"}
+{"level":"ERROR","ts":"2020-05-27T00:28:20.191+0530","caller":"service/producerService.go:65","msg":"error while pushing message into kafka: %sdial tcp: lookup kafka-1: no such host"}
